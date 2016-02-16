@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Part of my introduction to GIT, via Web Training
+Part of my introduction to GIT, via Web Training.
+One more modification to the file !
 
 ## Purpose
 
