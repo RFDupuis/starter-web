@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!--
+	Copyright 2016 git.Training
+-->
+
 <head>
 	<title>An example Web site</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
