@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Roger Dupuis	roger@git.training	@dupuisjt
 
 # THANKS
 
